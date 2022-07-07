@@ -8,7 +8,7 @@ hr {
   border-top-style: dotted;
   width: 5%;
   border-width: 5px;
-  border-color: grey;
+  border-color: grey;     <!-- external css -->
 }
 
 h1 {
